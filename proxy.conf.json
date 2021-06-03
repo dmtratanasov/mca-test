@@ -1,0 +1,8 @@
+{
+    "/qr-scanner-codes": {
+        "target" :  "https://interview-task-api.mca.dev",
+        "secure" : false,
+        "logLevel" : "debug",
+        "changeOrigin" : true
+    }
+}
